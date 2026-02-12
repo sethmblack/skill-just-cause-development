@@ -1,11 +1,10 @@
 ---
 name: just-cause-development
-description: Help organizations articulate a Just Cause - a vision of a future state
-  so appealing that people will make sacrifices to advance toward it.
+description: Help organizations articulate a Just Cause - a vision of a future state so appealing that people will make sacrifices to advance toward it.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - just-cause-development
 - transformation
